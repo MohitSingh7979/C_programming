@@ -1,0 +1,4 @@
+total 20K
+-rw-r--r-- 1 ms ms  63 Mar  7 12:53 1.c
+-rwxr-xr-x 1 ms ms 16K Mar  7 12:53 a.out
+-rw-r--r-- 1 ms ms   0 Mar  7 12:57 ls.txt
