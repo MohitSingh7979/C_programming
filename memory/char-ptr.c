@@ -1,7 +1,7 @@
 #include<stdio.h>
 
-void main()
+int main()
 {
     char c;
-    printf("sizeof c = %d, sizeof char = %d\n", sizeof(c) , sizeof(char));
+    printf("sizeof c = %lu, sizeof char = %lu\n", sizeof(c) , sizeof(char));
 }
